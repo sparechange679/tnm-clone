@@ -1,0 +1,36 @@
+      .main-content-link {
+        z-index: 9999;
+      }
+
+      .navbar {
+        background-color: #f59e0b;
+      }
+
+      .h1 {
+        color: #16a34a;
+      }
+
+      .btn-learn-more {
+        background-color: #16a34a;
+      }
+
+      .span-badge {
+        background-color: #16a34a;
+      }
+
+      .card-loan {
+        background-color: #fde047;
+      }
+
+      .card-esim {
+        background-color: #1f2937;
+        color: white;
+      }
+
+      .card-news {
+        background: linear-gradient(135deg, #fca5a5 0%, #fde68a 100%);
+      }
+
+      footer {
+        background-color: #16a34a;
+      }
