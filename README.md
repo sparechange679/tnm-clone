@@ -14,24 +14,44 @@ A static website clone of Telekom Networks Malawi (TNM) built as a school projec
 ## Pages
 
 ### 1. Personal (index.html)
+
 The main landing page featuring:
+
 - Hero carousel with salary advance and loan promotions
 - Hot offers section with service cards
 - Latest news and campaigns
 - Comprehensive footer with site navigation
 
 ### 2. Enterprise (enterprise.html)
+
 Business solutions page showcasing:
+
 - Enterprise services and solutions
 - Office connectivity and telephony
 - Cloud and hosting services
 - 5G network offerings
 
 ### 3. Our Shops (our-shops.html)
+
 Retail locations page displaying:
+
 - TNM shop locations across Malawi
 - Contact information for each location
 - Shop supervisor details
+
+## Screenshots
+
+### Personal Page
+
+![Personal Page](screenshots/personal.png)
+
+### Enterprise Page
+
+![Enterprise Page](screenshots/enterprise.png)
+
+### Our Shops Page
+
+![Our Shops Page](screenshots/our-shop.png)
 
 ## Technologies Used
 
@@ -60,9 +80,15 @@ tnm-clone/
 │       ├── bg-4.jpg
 │       ├── face-1.jpg
 │       └── face-2.jpg
+├── screenshots/
+│   ├── personal.png
+│   ├── enterprise.png
+│   └── our-shop.png
 ├── index.html
 ├── enterprise.html
-└── our-shops.html
+├── our-shops.html
+└── README.md
+
 ```
 
 ## Getting Started
@@ -74,6 +100,7 @@ No special prerequisites are needed. You only need a modern web browser to view 
 ### Installation
 
 1. Clone or download this repository
+
 ```bash
 git clone <repository-url>
 cd tnm-clone
@@ -82,26 +109,13 @@ cd tnm-clone
 2. Open the website in your browser
 
 **Option 1: Double-click**
+
 - Simply double-click on `index.html` to open it in your default browser
-
-**Option 2: Using a local server (recommended)**
-- Using Python:
-  ```bash
-  python -m http.server 8000
-  ```
-  Then visit `http://localhost:8000`
-
-- Using Node.js (with http-server):
-  ```bash
-  npx http-server
-  ```
-
-- Using VS Code Live Server extension:
-  - Right-click on `index.html` and select "Open with Live Server"
 
 ## Usage
 
 Navigate through the website using the top navigation bar:
+
 - **Personal**: Main page with personal services and offers
 - **Enterprise**: Business solutions and enterprise services
 - **Mpamba**: Mobile money services (linked)
@@ -121,6 +135,7 @@ Navigate through the website using the top navigation bar:
 ## Browser Support
 
 This website supports all modern browsers:
+
 - Chrome (latest)
 - Firefox (latest)
 - Safari (latest)
