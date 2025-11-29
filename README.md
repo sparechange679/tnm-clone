@@ -102,7 +102,7 @@ No special prerequisites are needed. You only need a modern web browser to view 
 1. Clone or download this repository
 
 ```bash
-git clone <repository-url>
+git clone [(https://github.com/sparechange679/tnm-clone.git)]
 cd tnm-clone
 ```
 
@@ -144,13 +144,13 @@ This website supports all modern browsers:
 ## Acknowledgments
 
 - Design inspired by Telekom Networks Malawi (TNM) official website
-- Built using Bootstrap framework
+- Built using the Bootstrap framework
 - Icons from Bootstrap Icons
 - Created as a school project
 
 ## License
 
-This is a school project for educational purposes only. All TNM branding and content belongs to Telekom Networks Malawi PLC.
+This is a school project for educational purposes only. All TNM branding and content belong to Telekom Networks Malawi PLC.
 
 ## Contact
 
