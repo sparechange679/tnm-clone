@@ -102,7 +102,7 @@ No special prerequisites are needed. You only need a modern web browser to view 
 1. Clone or download this repository
 
 ```bash
-git clone [(https://github.com/sparechange679/tnm-clone.git)]
+git clone https://github.com/sparechange679/tnm-clone.git
 cd tnm-clone
 ```
 
