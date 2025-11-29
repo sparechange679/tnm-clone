@@ -1,6 +1,6 @@
 # TNM Clone Website
 
-A static website clone of Telekom Networks Malawi (TNM) built as a school project. This project replicates the design and functionality of TNM's official website, showcasing personal services, enterprise solutions, and retail locations.
+A static website clone of Telekom Networks Malawi (TNM) built as a school project. This project replicates the design and functionality of TNM's official website, showcasing personal services, enterprise solutions, and retail locations. [Live site preview](https://sparechange679.github.io/tnm-clone/)
 
 ## Features
 
@@ -15,7 +15,7 @@ A static website clone of Telekom Networks Malawi (TNM) built as a school projec
 
 ### 1. Personal (index.html)
 
-The main landing page featuring:
+The main landing page features:
 
 - Hero carousel with salary advance and loan promotions
 - Hot offers section with service cards
